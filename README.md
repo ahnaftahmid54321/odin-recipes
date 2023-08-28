@@ -1,1 +1,2 @@
 # odin-recipes
+I created a file and connected it to my local machine. This is the first time I have ever done any coding and it is the most exciting thing ever. The possibilities are so many and exciting. I cannot wait to see what I can create with this new power.
